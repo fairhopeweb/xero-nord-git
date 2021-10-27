@@ -1,6 +1,6 @@
-# This is October's Nord Rice
+# This is XeroLinux's Nord Rice
 
-Some notes before proceeding :
+### Some notes before proceeding :
 
 > Applying this rice will override all your settings. So make sure to create a backup of your system either via Snapper if using it, or TimeShift. Don't worry though, script will attempt to create a backup for you of your ~/.config folder before proceeding. Still better be safe than sorry.
 
