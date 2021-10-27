@@ -1,0 +1,18 @@
+[Appearance]
+BackgroundColorOpacity=80
+HideSkinBorders=true
+Skin=arc-dark
+SkinInstalledWithKns=true
+Translucency=true
+
+[Behavior]
+RememberFullscreen=true
+
+[Desktop Entry]
+DefaultProfile=
+
+[Dialogs]
+FirstRun=false
+
+[Window]
+Width=70

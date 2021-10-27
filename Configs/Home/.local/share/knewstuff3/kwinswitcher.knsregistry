@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="211">
+  <name>Windows Wall</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Hookahey</author>
+  <homepage>https://store.kde.org/p/1112559</homepage>
+  <licence></licence>
+  <version>0.1</version>
+  <rating>65</rating>
+  <downloads>23078</downloads>
+  <installedfile>/home/liveuser/.local/share/kwin/tabbox/windows-wall</installedfile>
+  <id>1112559</id>
+  <releasedate>2013-02-06</releasedate>
+  <summary>Displays a grid like wall of the present windows with close buttons. In addition to the switch window shortcuts it can be navigated using the arrow keys or mouse.&lt;br />
+&lt;br />
+Started out by fixing a bug concerning the mouse behavior in "present windows clone" &lt;a...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img//hive/content-pre1/156777-1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img//hive/content-pre1/156777-1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE0NjUzODM4NzQiLCJvIjoiMSIsInMiOiI0MzRmZGNkNzJhNGY1ZDA5Mzg5NTg4Njg2ZTQzNjM3MmMwNmViOGI4MWU1Njc3ZDNhN2Q1OWQ3ZjFmODgzNWFkZjQ3MWRlNzYzMjk1ZmExMTJkMTgzNTQ2ZDc3NDMxYTkxMDNhYmM0ZGY2NjE1NmIzNDYzODIyZTM5ZjM2OGYxZiIsInQiOjE2MzM2MTk0MTMsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.A3Nj-3CzK9G4D7LRtwVa7CYB6L4f8vuo31ElaC4no1I/156777-windows-wall.zip</payload>
+  <tags>linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

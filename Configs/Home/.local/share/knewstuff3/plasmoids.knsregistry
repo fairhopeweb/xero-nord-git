@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="420">
+  <name>mediacontroller_plus</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>ismail0f</author>
+  <homepage>https://store.kde.org/p/1317639</homepage>
+  <licence></licence>
+  <version>0.3.1</version>
+  <rating>87</rating>
+  <downloads>4522</downloads>
+  <installedfile>/home/liveuser/.local/share/plasma/plasmoids/org.kde.plasma.mediacontroller_plus</installedfile>
+  <id>1317639</id>
+  <releasedate>2021-08-28</releasedate>
+  <summary>This is a modified version of the offical mediacontroller plasma5 widget.&lt;br />
+&lt;br />
+Add your media controller to your plasma panel or latte dock, and configure it to your liking, by enabling or disabling album artwork, track information, playback controls and playback progress bar.&lt;br />
+&lt;br...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/7/1/b/4/83041c2f39e2305f73a134442be2a329dfbb4d60b2a3d50adb77f1f3a2d5ae9c1043.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/7/1/b/4/83041c2f39e2305f73a134442be2a329dfbb4d60b2a3d50adb77f1f3a2d5ae9c1043.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzAxNjYzNzQiLCJvIjoiMSIsInMiOiJlZjIxMWI5NTQwNTk3ZTA3ODJlZjJiODU1ZTA0ZWM0MWE2ZDkwNzk2OGI3MGUxZDA3MzU2N2QwZWE1MzlhMDU2YWQyZThiNTcwYjFhZWQzNzRhZmQ0NWQ1ZTYzMzMwYzI4MzdmYmQxM2IzZTA1ZTVmYjEzMzdhNTdlNmRhMzkxYiIsInQiOjE2MzM2MTY5MDcsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.gMhN58VVhS1X8PjvAmd_YpQIbeinBJfYT1rJxfiogLA/MediaController+_0.3.1.plasmoid</payload>
+  <tags>gplv2-later,efi,multimedia,mpris,panel,linux,unix,extension,kde,plasma,plasma##majorversion=5,widget</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="425">
+  <name>Netspeed Widget</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>HessiJames</author>
+  <homepage>https://store.kde.org/p/998895</homepage>
+  <licence></licence>
+  <version>1.9</version>
+  <rating>84</rating>
+  <downloads>121544</downloads>
+  <installedfile>/home/liveuser/.local/share/plasma/plasmoids/org.kde.netspeedWidget</installedfile>
+  <id>998895</id>
+  <releasedate>2020-09-03</releasedate>
+  <summary>Plasma 5 widget that displays the currently used network bandwidth.&lt;br />
+&lt;br />
+The appearance can be customized in the configuration dialog and a user defined application (eg. nethogs) can be launched when the applet is clicked.&lt;br />
+&lt;br />
+Required dependencies:&lt;br />
+&lt;br />
+ - ksysguard...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/a/7/1/9/19851d283f6d53dde8f2cb213a09d1adb805.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/a/7/1/9/19851d283f6d53dde8f2cb213a09d1adb805.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTkxNTk5NzMiLCJvIjoiMSIsInMiOiJiMjFmMjRlM2U4N2FiM2ZjMjg4MjJkOTJlYTcxYWFjMjcxMzFkMGViNGYyNzY3N2I3ZGU5YTVlYmViZThlODJlNjA1Y2IxMzUzYjFmZGViMWNlNzc2MjBmZmM0ZDhmYjY3NjRmNjc3MDc4MTMwMzhkZGY0NmFhNmNlMTY4YTBmMSIsInQiOjE2MzM2MTA5MzQsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.zBq4nfEXFSPaSu_aQy0LfZj4zsL-0LTl47QEcKctDH8/netspeed-widget-1.9.plasmoid</payload>
+  <tags>original-product,gplv2-later,linux,unix,extension,plasma##majorversion=5,widget,kde,plasma,monitoring,network,monitor</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Application title</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>kinta</author>
+  <homepage>https://store.kde.org/p/1199712</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>82</rating>
+  <downloads>453534</downloads>
+  <installedfile>/home/liveuser/.local/share/plasma/plasmoids/org.communia.apptitle</installedfile>
+  <id>1199712</id>
+  <releasedate>2017-11-20</releasedate>
+  <summary>This plasmoid adds the focused application title (and icon). &lt;br />
+Plasmoid with some ideas from activewindowcontrol by Martin Kotelnik, but simplified and changed as this one just adds the window title and the icon.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/f/a/e/d2af20383fed03aaa5b49fcac588c543e266.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/f/a/e/d2af20383fed03aaa5b49fcac588c543e266.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1Mjk5MjU5MjkiLCJvIjoiMSIsInMiOiIyOGM2OTE2NDdkMmVjNDk0OWE3NmI4OWQ2OTIxMjU3ZjA4ZmZlOTI0Yzg5YjFjNDg4M2EzNzViYTMyNWMwOWYzMWJmZThlYjE5ZWMyZDBlODJlNmE1NWU1NWU1ZjcxZmZhNjZmNzdhN2VhNDI3NzVhN2RkOTBmZDgxN2E1MDhkOCIsInQiOjE2MzM2MTY2NDksInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.H2j_EIvXhb_2j7wbzw3aGwDsFj9ytTrW8ii6-8eRxX8/org.communia.apptitle--v1.1.org.communia.apptitle.plasmoid</payload>
+  <tags>linux,unix,extension,plasma##majorversion=5,widget,kde,plasma</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Latte Separator</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>Psifidotos</author>
+  <homepage>https://store.kde.org/p/1295376</homepage>
+  <licence></licence>
+  <version>0.1.1</version>
+  <rating>78</rating>
+  <downloads>152557</downloads>
+  <installedfile>/home/liveuser/.local/share/plasma/plasmoids/org.kde.latte.separator</installedfile>
+  <id>1295376</id>
+  <releasedate>2019-11-24</releasedate>
+  <summary>Plasma 5 applet that acts as a separator between applets. This plasmoid is coming from Latte land but it can also support Plasma panels.&lt;br />
+&lt;br />
+&lt;strong>Features:&lt;/strong>&lt;br />
+ * option for thickness margins&lt;br />
+ * option for length margins</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/3/5/9/3/1c26dcae9451538080281b82912d56c000ae.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/3/5/9/3/1c26dcae9451538080281b82912d56c000ae.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NzQ1OTA0MDAiLCJvIjoiMSIsInMiOiJlYzM5NTI5MGY2ZGRkMjQyY2I4YzlkZmVjNzlmOTg5YWZhMzgyMDdlYWNhY2E4MDkyZjBmMzE2YzdjZjUwMGUwODUyOTBjM2NlYjE5NjgxZGE3OWUzMTRmMzdmMTgzNDZkMDIxODgxOTczY2NhMDRhMDIzNTJjM2U3NTI0MTg3OSIsInQiOjE2MzM2MTY4OTMsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.UeZwUP4PpAHQQCvcV7cvRi8aLX5BPdb_Freh2R6M1BM/applet-latte-separator-0.1.1.plasmoid</payload>
+  <tags>gplv2-later,original-product,linux,unix,extension,plasma##majorversion=5,widget,kde,plasma,separator</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="105">
+  <name>Compact Shutdown</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1483671</homepage>
+  <licence></licence>
+  <version>20210921</version>
+  <rating>75</rating>
+  <downloads>1393</downloads>
+  <installedfile>/home/liveuser/.local/share/plasma/plasmoids/org.kde.plasma.compact-shutdown</installedfile>
+  <id>1483671</id>
+  <releasedate>2021-09-21</releasedate>
+  <summary>Fast &amp;amp; compact shutdown applet for your Plasma Desktop.&lt;br />
+Available actions:&lt;br />
+- Logout&lt;br />
+- Lock Screen&lt;br />
+- Suspend&lt;br />
+- Hibernate&lt;br />
+- Reboot&lt;br />
+- Shutdown&lt;br />
+&lt;br />
+NOTE: openSUSE Tumbleweed users for right work need create symlink to qdbus:&lt;br />
+sudo ln -s...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/e/5/7/3ee3417c35d3d2b3a27408cc7cf6cf81b31f753eaacc91b897f91485c7574a379c89.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/e/5/7/3ee3417c35d3d2b3a27408cc7cf6cf81b31f753eaacc91b897f91485c7574a379c89.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzIxOTQxODYiLCJvIjoiMSIsInMiOiIyMzFlMTJiNjg4YjdkMDdkOGVjMzAyMDIzMjE5YmU1MDhlYmVhZmFlZDg4NmJiNTM0OTAzNzU5ZTBhZmQwMGJmZjgwZWNhNjQ0NTQ3MTk4YmM1NTE0NzJiNmEzMmMxNGEwYzQ1M2MzMTk4ZjI3ZTVmZTJjZThlMzZjN2Q3NGQ4YiIsInQiOjE2MzM2MTY3NzQsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.OV59xJSYRZza0VHlYQ6gTNM-gYtHSMCed7Ei8lanEJU/org.kde.plasma.compact-shutdown.plasmoid</payload>
+  <tags>linux,unix,extension,kde,plasma,plasma##majorversion=5,widget,original-product,gplv3,shutdown,logout,suspend,hibernate,reboot</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="420">
+  <name>MediaBar</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>climber</author>
+  <homepage>https://store.kde.org/p/1377704</homepage>
+  <licence></licence>
+  <version>1.1</version>
+  <rating>60</rating>
+  <downloads>4405</downloads>
+  <installedfile>/home/liveuser/.local/share/plasma/plasmoids/org.kde.mediabar</installedfile>
+  <id>1377704</id>
+  <releasedate>2020-07-09</releasedate>
+  <summary>Media Bar for system tray use based on KDE Plasma Media Player Controls.&lt;br />
+&lt;br />
+Features:&lt;br />
+ * View and control Media from inside a panel or dock (such as Latte Dock)&lt;br />
+ * Simple format: Artist Name - Track Title&lt;br />
+ * View Album and Album Art on expanded view and tooltip&lt;br />
+...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/5/d/2/2/a85858ec3dfa3e362141bf97a0b845164567.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/5/d/2/2/a85858ec3dfa3e362141bf97a0b845164567.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQyOTc0MDAiLCJvIjoiMSIsInMiOiI2YzMxMTdjZWRhMjIyNjFlYjA1MzZkNjdjODQ2MDU4ZjRiNzY5MDdmODk4MGRmMThmMzE0NWE4YjIxMTMzOTg1MjI3NDNmZjdlNGE2ZTQ5MWRlZjJhY2VmMTNmMDhjYmYzNWJhZjlmYmZmNzljNDY5ZTk1Y2EyMjQwN2YwYTM4OCIsInQiOjE2MzM2MTcwMzgsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.h7ugLwKqJhxaCTQXfoL6qozB2VOXHJlrpD-YqMDjb3w/v1.1.tar.gz</payload>
+  <tags>gplv3,original-product,multimedia,plasmoid,latte-dock,linux,unix,extension,kde,plasma,plasma##majorversion=5,widget</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

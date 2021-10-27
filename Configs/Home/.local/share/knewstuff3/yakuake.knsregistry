@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="184">
+  <name>Breeze Perfect Dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>noahadvs</author>
+  <homepage>https://store.kde.org/p/1193435</homepage>
+  <licence></licence>
+  <version>2.0</version>
+  <rating>68</rating>
+  <downloads>17632</downloads>
+  <installedfile>/home/liveuser/.local/share/yakuake/kns_skins/yakuake-breeze_perfect_dark-2.0/*</installedfile>
+  <id>1193435</id>
+  <releasedate>2017-10-22</releasedate>
+  <summary>The perfect Breeze Dark theme for Yakuake.&lt;br />
+&lt;br />
+There are scripts in the "customizations" folder that you can use to customize the theme. Inkscape must be installed in order for them to work.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/f/8/d/4/30967ca029b0b8e19486b588d71195aa525d.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/f/8/d/4/30967ca029b0b8e19486b588d71195aa525d.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDg0NjM2MzUiLCJvIjoiMSIsInMiOiI5NDhjMzMxNjQwMjM1OGJjMWM4NDc1YWYzYjk3YjljOWVmM2M2NmFkZWE0NzVlODI1MThiYmM3YjliOWQwNTRkYTg5YzNkMjMwY2Q3MmJmYmZhNWRkYTA3M2Q1ODZiZTBiZmFlYTFhZTI3Y2RiYjg3NjM4ZWNiZjA1OWU0MGI3YiIsInQiOjE2MzM2MTg3NzQsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.JUyFXxiGvTT_R62dBmAFDl_JAYtO0Pc_OWCfbC8n8Fs/v2.0.tar.gz</payload>
+  <tags>addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="184">
+  <name>One dark</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>zarof</author>
+  <homepage>https://store.kde.org/p/1554456</homepage>
+  <licence></licence>
+  <version>1.0.0</version>
+  <rating>50</rating>
+  <downloads>529</downloads>
+  <installedfile>/home/liveuser/.local/share/yakuake/kns_skins/one-dark/*</installedfile>
+  <id>1554456</id>
+  <releasedate>2021-07-11</releasedate>
+  <summary>One Dark is based on Material Dark KDE. An amazing Yakuake skin by x-varlesh-x.&lt;br />
+One Dark gives you a translucent Title bar and Terminal logo before the title by keeping the amazing look of the Material Dark KDE.&lt;br />
+&lt;br />
+INSTALLATION&lt;br />
+Installation is really simple – in Yakuake...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/6/c/7/5/40f39e6776822fa4486e94784e3a8562f5eeb6b09290e55458cec65f78f2c3d12e81.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/6/c/7/5/40f39e6776822fa4486e94784e3a8562f5eeb6b09290e55458cec65f78f2c3d12e81.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjYwMDY1ODQiLCJvIjoiMSIsInMiOiI4YzdmMDg5ZGE5OTY0MGE2MmU2MGE3NzVmY2NkY2UxYzg2ZGNjMDcwMDkyODZiZDllNTkwMGI5N2RjNzhhNmVmNGJiMWRiZmUyZTg3MGQ3ZjU2NDRmNmEyNzYxOGE2MmU1ZWJlMTUxZjU4OTMxYWM3ZTY2YjE5ODNkMzAyMWFiMCIsInQiOjE2MzM2MTg3OTgsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.2QCY1LeF6WNuDQvRhU5UYzljtt9GO9MNKKidKiS76VY/one-dark.tar.gz</payload>
+  <tags>material,dark,skin,yakuake,addon,mit-license,efi</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="184">
+  <name>Arc KDE Yakuake</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>x-varlesh-x</author>
+  <homepage>https://store.kde.org/p/1167641</homepage>
+  <licence></licence>
+  <version>20170912</version>
+  <rating>57</rating>
+  <downloads>13352</downloads>
+  <installedfile>/home/liveuser/.local/share/yakuake/kns_skins/arc-dark/*</installedfile>
+  <id>1167641</id>
+  <releasedate>2017-09-12</releasedate>
+  <summary>Arc KDE - This is a port of the popular GTK theme Arc for Plasma 5 desktop with a few additions and extras.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/3/e/d/68acaf1590cc363736372892daa06bffff78.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1MDUxOTg3NjkiLCJvIjoiMSIsInMiOiIwZDhkNmY2MzRjMDc3OGVjNGRiZDFjMjFhYTk2OTM2ZDcyNWMxNTRkOWM5NDFkYTg3MmJmZjk5N2Q4ZjMzNmI5Y2RlZTljMmYxNTU2YmRjMDk4NmIyMDQ0YzZjOGU4NWQ1NjEzZDIzMTZlNTNjNjQ4M2Y0MzNlNDFjYmE4ZjdjZiIsInQiOjE2MzM2MTg4NTIsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.gtSLWYfy4TvDprdxRz6rHVVcaG-J_Ew8Rv2Aw0nJ3rc/arc-dark-yakuake.tar.gz</payload>
+  <tags>gplv3,addon</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="184">
+  <name>Breath2 Dark Minimal</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>nissen22</author>
+  <homepage>https://store.kde.org/p/1385829</homepage>
+  <licence></licence>
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>5211</downloads>
+  <installedfile>/home/liveuser/.local/share/yakuake/kns_skins/Yakuake-Breath2-Dark-Minimal-1.0/*</installedfile>
+  <id>1385829</id>
+  <releasedate>2020-05-21</releasedate>
+  <summary>A slight edit of the Manjaro Breath2 skin for Yakuake (the skin comes bundled with Manjaro Linux, download it here: https://gitlab.manjaro.org/artwork/themes/breath2). This modification removes the title bar. You need to use hotkeys to access settings and quit Yakuake.&lt;br />
+&lt;br />
+My...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/b/2/c/2540f13222d318d3cfa8a3c23a7bee6ea1a5.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/b/2/c/2540f13222d318d3cfa8a3c23a7bee6ea1a5.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTAwNzAzMTciLCJvIjoiMSIsInMiOiI4YjhmZjU4NjA2OGE4YzNhOWVkOGNmNjNlZGE5NGMwZTJmNzRhZjgxMjhhYzcyNzIxZGUzOTlmNmM4ZDU0Y2ZiNWE0NzBkMmE5ZmRkNjNmN2ViYTc2NzRhYWE3Y2I5Nzg2OWU0ODU2Y2YwZTliZmRiYWQ1NDIxZGM2OWYzMWE4MSIsInQiOjE2MzM2MTg4MjMsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.-JKn33IduieYfKbKh3LLsD0G0LhjTrGhpoiMR0UcB2M/1.0.tar.gz</payload>
+  <tags>modification-product,cc-by-sa,addon,breath,manjaro,minimal</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="184">
+  <name>Breeze V2</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>megabigbug</author>
+  <homepage>https://store.kde.org/p/1237971</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>65</rating>
+  <downloads>4397</downloads>
+  <installedfile>/home/liveuser/.local/share/yakuake/kns_skins/breeze_v2/*</installedfile>
+  <id>1237971</id>
+  <releasedate>2018-06-03</releasedate>
+  <summary>A Yakuake skin where tabs look like the task items of Plasma Breeze theme.</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/2/3/4/8/1e26b2288d668a909c7ef597f627112a137b.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/2/3/4/8/1e26b2288d668a909c7ef597f627112a137b.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTAzMzQzMTkiLCJvIjoiMSIsInMiOiIzOWY3ZTViZWNmNWQ3ODkzNjBiYmE2ZmJmMmYwYjcwYWQ5MjlmNTJkM2FhNTQwNDhiNmM0YjMwN2ZlZDU1Njk3Mjg1ODk5NTYyNzlhMzU1MGJkNzdhOTY2MTEyM2Q0MTcwMDdkYmM5NWQzZTk5Mzk3MDJhODdkZjNjYTgxYjZiOCIsInQiOjE2MzM2MTg4MzAsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.p30FFHxiyLEoaYtHb0GI0vW59Ng3FyXup8wpA65EMDY/breeze_v2.tar.gz</payload>
+  <tags>addon,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

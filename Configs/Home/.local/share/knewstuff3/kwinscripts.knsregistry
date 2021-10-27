@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="210">
+  <name>KWin dynamic workspaces</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>d86leader</author>
+  <homepage>https://store.kde.org/p/1312691</homepage>
+  <licence></licence>
+  <version>1.0.1</version>
+  <rating>73</rating>
+  <downloads>3578</downloads>
+  <installedfile>/home/liveuser/.local/share/kwin/scripts/dynamic_workspaces</installedfile>
+  <id>1312691</id>
+  <releasedate>2020-07-22</releasedate>
+  <summary>A kwin script that creates and deletes desktops as you move windows on the last one.&lt;br />
+&lt;br />
+I intented to replicate some of gnome-desktop's behavior with moving windows around.&lt;br />
+As this is a simple script for satisfying my needs, it only workds horizontally left-toright.&lt;br />
+The...</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/d/7/f/5/f3197437783b57b5ca24861dc05d50a390d1.png</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/d/7/f/5/f3197437783b57b5ca24861dc05d50a390d1.png</previewBig>
+  <payload>https://dl1.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTUzOTQyOTYiLCJvIjoiMSIsInMiOiJiZDE1NDAzZGEyODBhMTZmMDZmNDI2ODI3MjBmNTE5NzFhZjk5OTZmNzI3MWU4NzFkY2RkODI0NjQ0NjQ5MmU5NDYzZDliYTg4ZjY4NDczOTQ1YThjY2Y0ZWZkZjkwNWU4YmNmM2ViYzIwNTExMTUwMDVlMjdkNzU5Y2QyMDVkNSIsInQiOjE2MzM2MTk1MzcsInN0ZnAiOm51bGwsInN0aXAiOiIxODUuMTg3Ljk0LjUifQ.BUd1nbVuF5_zkBS1nmKPP7VmkUhmjHZLZnSQTCW4lIQ/dynamic_workspaces.tar.gz</payload>
+  <tags>bsd-license,original-product,linux,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>
