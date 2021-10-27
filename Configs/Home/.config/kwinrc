@@ -16,9 +16,10 @@ Rows=1
 BorderActivateAll=9
 
 [Effect-Wobbly]
-Drag=85
-Stiffness=10
-WobblynessLevel=1
+Drag=90
+ResizeWobble=false
+Stiffness=6
+WobblynessLevel=2
 
 [ModifierOnlyShortcuts]
 Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
