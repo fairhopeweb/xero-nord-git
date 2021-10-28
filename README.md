@@ -6,7 +6,19 @@
 
 ![XeroNord](https://i.imgur.com/VdmaY4M.jpg)
 
-## Installation
+# What you need ...
+
+First off, note that if you want to use on other distros than **XeroLinux** you will need to add my repo since most of the packages are only available there.
+
+Open the file `/etc/pacman.conf` and add my repo below anywhere :
+```
+[xerolinux_repo]
+SigLevel = Optional TrustAll
+Server = https://xerolinux.github.io/$repo/$arch
+```
+Save the file, and refresh databases via `sudo pacman -Sy` then follow below step...
+
+# Installation
 
 Just clone this repository, run terminal inside directory and run installer via `./install.sh` Script will do the following steps :
 
