@@ -21,6 +21,8 @@ plugin=org.kde.windowtitle
 
 [Containments][2][Applets][101][Configuration][General]
 containmentType=Plasma
+filterActivityInfo=false
+filterByScreen=true
 
 [Containments][2][Applets][25]
 immutability=1
