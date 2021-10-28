@@ -8,7 +8,7 @@
 
 ## Installation
 
-Just clone this repository, run terminal inside directory and run this command `chmod +x install.sh` then run installer via `./install.sh` Script will do the following steps :
+Just clone this repository, run terminal inside directory and run installer via `./install.sh` Script will do the following steps :
 
 - Create a cbackup of your ~/.config folders
 - Download and install necessary packages if needed...
