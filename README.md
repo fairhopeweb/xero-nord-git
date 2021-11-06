@@ -31,10 +31,10 @@ Just clone this repository, run terminal inside directory and run installer via 
 
 # F.A.Q
 
-> Q: Will this rice works on other distros ?
+> Q: Will this rice works on other distros ?<br />
 > A : If it's not *Vanilla* **Arch-KDE** then no.
 >
-> Q : I am running *EndeavourOS* **Arch** Distro with *KDE* can I use your rice ?
+> Q : I am running *EndeavourOS* **Arch** Distro with *KDE* can I use your rice ?<br />
 > A : Short answer, *might*. Long answer, too many variables, I don't guarantee success. Up to you, but not recommended and no support.
 
 # Disclosure
