@@ -24,7 +24,6 @@ echo "Applying new Rice, hold on..."
 echo "#################################"
 cp -Rf Configs/Home/. ~
 sudo cp -Rf Configs/System/. /
-sudo sed -i "s/Current=breeze/Current=Nordic/g" /etc/sddm.conf
 sleep 2
 echo "Applying Grub Theme...."
 echo "#################################"
