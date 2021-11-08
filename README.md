@@ -31,8 +31,8 @@ Just clone this repository, run terminal inside directory and run installer via 
 
 # F.A.Q
 
-> Q: Will this rice works on other distros Like Fedora or Debian based ?<br />
-> A : If it's not *Vanilla* **Arch-KDE** then no. Sorry *Nordic* not easy port.
+> Q: Will this rice work on other distros Like Fedora or Debian based ?<br />
+> A : If it's not *Vanilla* **Arch-KDE** or **XeroLinux** then no. Sorry.
 >
 > Q : I am running *EndeavourOS* **Arch** Distro with *KDE* can I use your rice ?<br />
 > A : Short answer, *might*. Long answer, too many variables, I don't guarantee success.
