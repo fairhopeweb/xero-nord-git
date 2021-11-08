@@ -18,7 +18,7 @@ sudo pacman -S --needed --noconfirm kvantum-theme-nordic-git nordic-darker-stand
 sleep 2
 echo "Installing Fonts"
 echo "#################################"
-sudo pacman -S --needed --noconfirm awesome-terminal-fonts nerd-fonts-fira-code noto-fonts-emoji otf-libertinus tex-gyre-fonts ttf-droid ttf-hack ttf-roboto
+sudo pacman -S --needed --noconfirm nerd-fonts-hack nerd-fonts-fira-code nerd-fonts-meslo nerd-fonts-terminus noto-fonts-emoji
 sleep 2
 echo "Applying new Rice, hold on..."
 echo "#################################"
