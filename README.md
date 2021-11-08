@@ -6,9 +6,9 @@
 
 ![XeroNord](https://i.imgur.com/VdmaY4M.jpg)
 
-# What you need ...
+# Requirement for *Other* Arch KDE Distros ...
 
-First off, note that if you want to use on other **Arch**-based distros with **KDE** than **XeroLinux** you will need to add my repo since most of the packages are only available there.
+First off, note that if you want to use on other Arch based distros with KDE than **XeroLinux** you will need to add my repo since most of the packages are only available there.
 
 Open the file `/etc/pacman.conf` and add my repo below anywhere :
 
@@ -32,9 +32,9 @@ Just clone this repository, run terminal inside directory and run installer via 
 # F.A.Q
 
 > Q: Will this rice work on other distros Like Fedora or Debian based ?<br />
-> A : If it's not *Vanilla* **Arch-KDE** or **XeroLinux** then no. Sorry.
+> A : If it's not **Arch-KDE** or **XeroLinux** then no. Sorry.
 >
-> Q : I am running *EndeavourOS* **Arch** Distro with *KDE* can I use your rice ?<br />
+> Q : I am running *Pre-Customized* **Arch** Distro with *KDE* can I use your rice ?<br />
 > A : Short answer, *might*. Long answer, too many variables, I don't guarantee success.
 
 # Disclosure
