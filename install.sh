@@ -30,6 +30,8 @@ echo "Applying Grub Theme...."
 echo "#################################"
 chmod +x XeroNord.sh
 sudo ./XeroNord.sh
+sudo sed -i "s/#GRUB_GFXMODE=640x480/GRUB_GFXMODE=1920x1080/g" /etc/default/grub
+sudo grub-mkconfig -o /boot/grub/grub.cfg
 sleep 2
 echo "Rebooting system in 5 seconds..."
 echo "#################################"
