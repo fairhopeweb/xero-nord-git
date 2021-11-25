@@ -6,7 +6,7 @@
 
 -> Performance issues :
 
-> This rice as with all rices is not recommended to be used on lower-end hardware. iGPUs and less than 4GB RAM will result in sluggish and sometimes laggy behaviour. You've been warned. If you still insist on installing on lower-end systems, don't come to me asking for help..
+> This rice as with all rices is not recommended to be used on lower-end hardware. iGPUs and less than 4GB RAM will result in sluggish and sometimes laggy behaviour. It's all due to Latte-Dock it's a memory hog, especially when using it way I do in my rices (sometimes 3 latte panels one dock). You've been warned. If you still insist on installing on lower-end systems, don't come to me asking for help..
 
 ![XeroNord](https://i.imgur.com/VdmaY4M.jpg)
 
