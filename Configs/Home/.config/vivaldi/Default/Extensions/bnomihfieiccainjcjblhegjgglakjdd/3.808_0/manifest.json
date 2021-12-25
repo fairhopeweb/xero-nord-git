@@ -1,0 +1,47 @@
+{
+   "background": {
+      "persistent": false,
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_popup": "ui/popup.html"
+   },
+   "content_scripts": [ {
+      "all_frames": true,
+      "css": [ "content-styles.css" ],
+      "exclude_matches": [ "https://www.youtube.com/improvedtube", "https://www.youtube.com/tv*", "https://www.youtube.com/audiolibrary/*", "http://studio.youtube.com/*" ],
+      "js": [ "youtube-scripts.js", "content-scripts.js" ],
+      "matches": [ "https://www.youtube.com/*" ],
+      "run_at": "document_start"
+   }, {
+      "all_frames": true,
+      "css": [ "ui/satus/satus.css", "ui/styles.css" ],
+      "js": [ "ui/satus/satus.js", "ui/script.js" ],
+      "matches": [ "https://www.youtube.com/improvedtube" ],
+      "run_at": "document_end"
+   }, {
+      "all_frames": true,
+      "js": [ "ui/page.js" ],
+      "matches": [ "https://www.youtube.com/improvedtube" ],
+      "run_at": "document_start"
+   } ],
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_description_ext__",
+   "icons": {
+      "128": "icons/128.png",
+      "16": "icons/16.png",
+      "32": "icons/32.png",
+      "48": "icons/48.png"
+   },
+   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCdkqLXi7Mi4b0wkmrsD1/abn/jLvqmLlOl/RFmymdvzJehXGghUMsKKbzDyDLnpKX7d2gzk6Jy7CYCRBImcDWozhFAf9bfIWNODEcfCjuAAXNmGbAxnAYLd+Tg8n7A8QEXI5b0bMEg3JvJ0cCJYQiLujY/OHYO9XeYq6d+s1DLewIDAQAB",
+   "manifest_version": 2,
+   "name": "'Improve YouTube!' (Video & YouTube Tools)🎧",
+   "offline_enabled": true,
+   "optional_permissions": [ "downloads", "https://*.youtube.com/*" ],
+   "options_page": "ui/options.html",
+   "permissions": [ "https://www.youtube.com/", "contextMenus", "storage" ],
+   "short_name": "ImprovedTube",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "3.808"
+}
