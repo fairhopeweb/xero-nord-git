@@ -146,8 +146,8 @@ alias sapps='cd /usr/share/applications'
 alias lapps='cd ~/.local/share/applications'
 
 #Package Info
-alias info='pacman -Si '
-alias infox='pacman -Sii '
+alias info='sudo pacman -Si '
+alias infox='sudo pacman -Sii '
 
 #switch between lightdm and sddm
 alias tolightdm="sudo pacman -S lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings --noconfirm --needed ; sudo systemctl enable lightdm.service -f ; echo 'Lightm is active - reboot now'"
