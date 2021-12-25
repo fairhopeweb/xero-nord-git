@@ -1,5 +1,5 @@
 {
-   "checksum": "47bade8fa93aa23d12a7ac9812e0a419",
+   "checksum": "4a95e75f79eb14d0751023deaf8cb0d3",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -212,9 +212,20 @@
                "name": "Vivaldi Game",
                "type": "url",
                "url": "vivaldi://game/"
+            }, {
+               "date_added": "13284926499943837",
+               "guid": "467c3f70-07be-4626-9fa5-3e444b21c83a",
+               "id": "36",
+               "meta_info": {
+                  "Partner": "467c3f70-07be-4626-9fa5-3e444b21c83a",
+                  "Thumbnail": "/resources/sd_yahoo.png"
+               },
+               "name": "Yahoo!",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/sd-yahoo-en-us"
             } ],
             "date_added": "13274233049763827",
-            "date_modified": "13274233049764118",
+            "date_modified": "13284926499943837",
             "guid": "44641543-f123-438f-bc5c-8da7bb7c6819",
             "id": "6",
             "meta_info": {
@@ -337,7 +348,7 @@
          } ],
          "date_added": "13274233047326341",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000000002",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
          "id": "1",
          "name": "Bookmarks",
          "type": "folder"
@@ -346,7 +357,7 @@
          "children": [  ],
          "date_added": "13274233047326343",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000000003",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
          "id": "2",
          "name": "Other bookmarks",
          "type": "folder"
@@ -355,7 +366,7 @@
          "children": [  ],
          "date_added": "13274233047326344",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000000004",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
          "id": "3",
          "name": "Mobile bookmarks",
          "type": "folder"
@@ -364,7 +375,7 @@
          "children": [  ],
          "date_added": "13274233047326348",
          "date_modified": "0",
-         "guid": "00000000-0000-4000-a000-000000040000",
+         "guid": "9f32a0fb-bfd9-5032-be46-07afe4a25400",
          "id": "4",
          "name": "Trash",
          "type": "folder"
