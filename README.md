@@ -42,4 +42,4 @@ Just clone this repository, run terminal inside directory and run installer via 
 
 # Disclosure
 
-> Use this at your own Risk ! It was requested, so am satisfying this request, but I won't be held liable if you didn't follow above recommendations.... Always Backup.. If you don't and break your system it's on you !!!!
+> Use this at your own Risk ! I won't be held liable if you didn't follow above recommendations.... Always Backup.. If you don't and break your system it's on you !!!!
