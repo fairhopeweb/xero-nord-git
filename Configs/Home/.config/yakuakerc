@@ -15,6 +15,7 @@ DefaultProfile=
 FirstRun=false
 
 [Window]
+Height=44
 KeepOpen=false
 ShowTabBar=false
 Width=70

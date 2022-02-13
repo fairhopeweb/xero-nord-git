@@ -10,7 +10,7 @@ cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 sleep 2
 echo "Installing required Tools"
 echo "#################################"
-sudo pacman -S --needed --noconfirm kvantum-qt5 latte-dock lolcat neofetch yakuake
+sudo pacman -S --needed --noconfirm kvantum latte-dock lolcat neofetch yakuake
 sleep 2
 echo "Installing Nord Theme"
 echo "#################################"
@@ -31,6 +31,11 @@ chmod +x XeroNord.sh
 sudo ./XeroNord.sh
 sudo sed -i "s/#GRUB_GFXMODE=640x480/GRUB_GFXMODE=1920x1080/g" /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
+sleep 2
+echo "LightlyShaders Build & Install"
+echo "#################################"
+git clone https://github.com/a-parhom/LightlyShaders
+cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX=/usr -DQT5BUILD=ON && make && sudo make install
 sleep 2
 echo "Rebooting system in 5 seconds..."
 echo "#################################"

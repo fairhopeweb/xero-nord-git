@@ -7,30 +7,32 @@ OpenGLIsUnsafe=false
 [Desktops]
 Id_1=b6d5690c-d71b-4e42-8f00-a9654b33fa12
 Id_2=297d2e6b-b219-4cda-a803-59d081888756
-Number=2
+Number=4
 Rows=1
 
 [Effect-PresentWindows]
 BorderActivateAll=9
 
 [Effect-Wobbly]
-Drag=90
-ResizeWobble=false
-Stiffness=6
-WobblynessLevel=2
+Drag=85
+Stiffness=10
+WobblynessLevel=1
 
 [ModifierOnlyShortcuts]
 Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
 
 [Plugins]
+blurEnabled=true
 desktopchangeosdEnabled=false
 dynamic_workspacesEnabled=false
 force-decorations-gtk3Enabled=true
 forceblurEnabled=true
+kwin4_effect_lightlyshadersEnabled=true
 macsimizeEnabled=false
 minimizeallEnabled=false
 movewindowtocenterEnabled=true
 opacitymenuEnabled=false
+overviewEnabled=true
 screenSnapping5Enabled=true
 slidebackEnabled=true
 synchronizeskipswitcherEnabled=false
@@ -43,8 +45,7 @@ patterns=dolphin\nkonsole\nyakuake\nurxvt\nkeepassxc
 
 [TabBox]
 BorderActivate=9
-LayoutName=org.kde.breeze.desktop
-ShowTabBox=false
+LayoutName=coverswitch
 
 [TabBoxAlternative]
 LayoutName=org.kde.breezedark.desktop
