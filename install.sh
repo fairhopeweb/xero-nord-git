@@ -11,6 +11,7 @@ sleep 2
 echo "Installing required Tools"
 echo "#################################"
 sudo pacman -S --needed --noconfirm kvantum latte-dock lolcat neofetch yakuake
+sudo pacman -R --noconfirm plasma-workspace-wallpapers
 sleep 2
 echo "Installing Nord Theme"
 echo "#################################"
