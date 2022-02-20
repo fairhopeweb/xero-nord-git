@@ -38,11 +38,8 @@ echo "#################################"
 git clone https://github.com/a-parhom/LightlyShaders
 cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX=/usr -DQT5BUILD=ON && make && sudo make install
 sleep 2
-echo "Rebooting system in 5 seconds..."
-echo "#################################"
-sleep 5
-sudo reboot
-
+echo "Reboot system To activate new rice."
+echo "###################################"
 
 
 
