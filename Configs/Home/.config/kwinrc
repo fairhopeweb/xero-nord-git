@@ -53,3 +53,7 @@ ShowTabBox=false
 
 [Windows]
 Placement=Centered
+
+[org.kde.kdecoration2]
+BorderSize=None
+BorderSizeAuto=false
