@@ -24,6 +24,16 @@ if [ -d "$HOME/.local/bin" ] ;
   then PATH="$HOME/.local/bin:$PATH"
 fi
 
+# Path to your Snap installation.
+export PATH=$PATH:/snap/bin
+
+##BTRFS Stuff
+alias btrfs-fs='sudo btrfs filesystem df /'
+alias btrfs-ls='sudo btrfs su li / -t'
+
+##Snapper Stuff
+alias snapls='sudo snapper list'
+
 ##Cmatrix thing
 alias matrix='cmatrix -s -C cyan'
 
@@ -145,10 +155,6 @@ alias docs='cd ~/Documents'
 alias sapps='cd /usr/share/applications'
 alias lapps='cd ~/.local/share/applications'
 
-#Package Info
-alias info='sudo pacman -Si '
-alias infox='sudo pacman -Sii '
-
 #switch between lightdm and sddm
 alias tolightdm="sudo pacman -S lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings --noconfirm --needed ; sudo systemctl enable lightdm.service -f ; echo 'Lightm is active - reboot now'"
 alias tosddm="sudo pacman -S sddm --noconfirm --needed ; sudo systemctl enable sddm.service -f ; echo 'Sddm is active - reboot now'"
@@ -156,6 +162,17 @@ alias tosddm="sudo pacman -S sddm --noconfirm --needed ; sudo systemctl enable s
 #Recent Installed Packages
 alias rip="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -200 | nl"
 alias riplong="expac --timefmt='%Y-%m-%d %T' '%l\t%n %v' | sort | tail -3000 | nl"
+
+#hblock (stop tracking with hblock)
+#use unhblock to stop using hblock
+alias unhblock="hblock -S none -D none"
+
+#Package Info
+alias info='sudo pacman -Si '
+alias infox='sudo pacman -Sii '
+
+##Refresh Keys
+alias rkeys='sudo pacman-key --refresh-keys'
 
 #shutdown or reboot
 alias sr="sudo reboot"
