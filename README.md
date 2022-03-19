@@ -21,7 +21,9 @@ Save the file, and refresh databases via `sudo pacman -Sy` then follow below ste
 
 # Installation
 
-Just clone this repository, run terminal inside directory and run installer via `./install.sh` Script will do the following steps :
+Just clone this repository, run terminal inside directory and run installer Script will do the following steps :
+
+`git clone https://github.com/xerolinux/xero-nord-git.git && cd xero-nord-git && ./install.sh`
 
 - Create a cbackup of your ~/.config folders
 - Download and install necessary packages if needed...
