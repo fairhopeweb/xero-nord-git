@@ -4,7 +4,7 @@
 
 > Applying this rice will override all your settings. So make sure to create a backup of your system either via Snapper if using it, or TimeShift. Don't worry though, script will attempt to create a backup for you of your ~/.config folder before proceeding. Still better be safe than sorry.
 
-![XeroNord](https://i.imgur.com/VdmaY4M.jpg)
+![XeroNord](https://i.imgur.com/0NPCCir.jpeg)
 
 # Requirement for *Other* Arch KDE Distros ...
 
