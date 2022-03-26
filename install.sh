@@ -33,11 +33,6 @@ sudo ./XeroNord.sh
 sudo sed -i "s/#GRUB_GFXMODE=640x480/GRUB_GFXMODE=1920x1080/g" /etc/default/grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg
 sleep 2
-echo "LightlyShaders Build & Install"
-echo "#################################"
-git clone https://github.com/TechXero/LightlyShaders
-cd LightlyShaders; mkdir qt5build; cd qt5build; cmake ../ -DCMAKE_INSTALL_PREFIX=/usr -DQT5BUILD=ON && make && sudo make install
-sleep 2
 echo "Reboot system To activate new rice."
 echo "###################################"
 
