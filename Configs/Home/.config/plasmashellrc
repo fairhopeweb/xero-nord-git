@@ -3,13 +3,20 @@ Recent Files[$e]=xero.png,file:///usr/share/logos/xero.png
 Recent URLs[$e]=file:///usr/share/logos/
 detailViewIconSize=16
 
+[PlasmaTransientsConfig]
+PreloadWeight=34
+
 [PlasmaViews][Panel 2]
 alignment=132
 floating=1
 
 [PlasmaViews][Panel 2][Defaults]
+floating=1
 maxLength=1920
 minLength=1920
+thickness=32
+
+[PlasmaViews][Panel 2][Horizontal1280]
 thickness=32
 
 [PlasmaViews][Panel 2][Horizontal1920]
@@ -23,6 +30,9 @@ minLength=320
 thickness=36
 
 [PlasmaViews][Panel 81][Horizontal1024]
+thickness=36
+
+[PlasmaViews][Panel 81][Horizontal1280]
 thickness=36
 
 [PlasmaViews][Panel 81][Horizontal1920]
@@ -39,6 +49,9 @@ minLength=320
 thickness=36
 
 [PlasmaViews][Panel 82][Horizontal1024]
+thickness=36
+
+[PlasmaViews][Panel 82][Horizontal1280]
 thickness=36
 
 [PlasmaViews][Panel 82][Horizontal1920]
