@@ -3,18 +3,12 @@ Recent Files[$e]=xero.png,file:///usr/share/logos/xero.png
 Recent URLs[$e]=file:///usr/share/logos/
 detailViewIconSize=16
 
-[PlasmaTransientsConfig]
-PreloadWeight=34
-
-[PlasmaTransientsConfig]
-PreloadWeight=34
-
 [PlasmaViews][Panel 2]
 alignment=132
+floating=1
 
 [PlasmaViews][Panel 2][Defaults]
 maxLength=1920
-floating=1
 minLength=1920
 thickness=32
 
