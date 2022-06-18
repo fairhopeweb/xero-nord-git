@@ -14,6 +14,7 @@ alignment=132
 
 [PlasmaViews][Panel 2][Defaults]
 maxLength=1920
+floating=1
 minLength=1920
 thickness=32
 
