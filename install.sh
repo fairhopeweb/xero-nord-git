@@ -12,10 +12,9 @@ echo "Removing old Latte-Dock & Lightly"
 echo "#################################"
 sudo pacman -R --noconfirm latte-dock lightly-git
 sleep 2
-echo
-echo "Installing required Tools"
+echo "Installing New latte-Git version"
 echo "#################################"
-sudo pacman -S --needed --noconfirm kvantum latte-dock-git neofetch yakuake
+sudo pacman -S --needed --noconfirm latte-dock-git
 sleep 2
 echo "Installing Nord Theme"
 echo "#################################"
