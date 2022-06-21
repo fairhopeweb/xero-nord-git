@@ -19,7 +19,7 @@ sudo pacman -S --needed --noconfirm kvantum latte-dock-git neofetch yakuake
 sleep 2
 echo "Installing Nord Theme"
 echo "#################################"
-sudo pacman -S --needed --noconfirm kvantum-theme-nordic-git nordic-darker-standard-buttons-theme nordic-darker-theme-git nordic-kde-git nordic-theme sddm-nordic-theme-git nordic-kde-transparency-git zafiro-icon-theme nordic-wallpapers
+sudo pacman -S --needed --noconfirm kvantum-theme-nordic-git nordic-darker-standard-buttons-theme nordic-darker-theme-git nordic-kde-git nordic-theme sddm-nordic-theme-git nordic-kde-transparency-git zafiro-icon-theme-git nordic-wallpapers
 sleep 2
 echo "Installing Fonts"
 echo "#################################"
