@@ -10,7 +10,8 @@ cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 sleep 2
 echo "Removing old Latte-Dock & Lightly"
 echo "#################################"
-sudo pacman -R --noconfirm latte-dock lightly-git
+sudo pacman -R --noconfirm lightly-git
+sudo pacman -R --noconfirm latte-dock
 sleep 2
 echo "Installing New latte-Git version"
 echo "#################################"
