@@ -18,6 +18,10 @@ Drag=85
 Stiffness=10
 WobblynessLevel=1
 
+[Effect-blur]
+BlurStrength=6
+NoiseStrength=2
+
 [ModifierOnlyShortcuts]
 Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
 

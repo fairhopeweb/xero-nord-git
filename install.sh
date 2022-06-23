@@ -15,7 +15,7 @@ sudo pacman -R --noconfirm latte-dock
 sleep 2
 echo "Installing New latte-Git version"
 echo "#################################"
-sudo pacman -S --needed --noconfirm latte-dock-git
+sudo pacman -S --needed --noconfirm latte-dock-git kvantum
 sleep 2
 echo "Installing Nord Theme"
 echo "#################################"
