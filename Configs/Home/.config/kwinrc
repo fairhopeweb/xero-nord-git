@@ -28,6 +28,7 @@ Meta=org.kde.lattedock,/Latte,org.kde.LatteDock,activateLauncherMenu
 [Plugins]
 autocomposerEnabled=true
 blurEnabled=true
+contrastEnabled=true
 desktopchangeosdEnabled=false
 dynamic_workspacesEnabled=false
 force-decorations-gtk3Enabled=true
@@ -41,6 +42,7 @@ movewindowtocenterEnabled=true
 opacitymenuEnabled=false
 overviewEnabled=true
 screenedgeEnabled=false
+sheetEnabled=true
 screenSnapping5Enabled=true
 slidebackEnabled=true
 synchronizeskipswitcherEnabled=false
