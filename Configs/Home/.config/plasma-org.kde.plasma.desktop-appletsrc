@@ -24,8 +24,8 @@ DialogWidth=800
 PreloadWeight=42
 
 [Containments][105][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/defaultbg/XeroLinux.png
-SlidePaths=/home/techxero/.local/share/wallpapers,/usr/share/wallpapers
+Image=/usr/share/wallpapers/NordWall23.png
+SlidePaths=/usr/share/wallpapers
 
 [Containments][106]
 ItemGeometries-1920x1080=
@@ -46,8 +46,8 @@ DialogWidth=800
 PreloadWeight=42
 
 [Containments][106][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/defaultbg/XeroLinux.png
-SlidePaths=/home/techxero/.local/share/wallpapers,/usr/share/wallpapers
+Image=/usr/share/wallpapers/NordWall23.png
+SlidePaths=/usr/share/wallpapers
 
 [Containments][2]
 activityId=
@@ -174,7 +174,7 @@ ToolBoxButtonY=32
 sortMode=-1
 
 [Containments][20][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/defaultbg/XeroLinux.png
+Image=/usr/share/wallpapers/NordWall23.png
 SlidePaths=/usr/share/wallpapers
 
 [Containments][81]
