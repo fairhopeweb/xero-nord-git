@@ -28,7 +28,7 @@ Just clone this repository, run terminal inside directory and run installer Scri
 - Create a cbackup of your ~/.config folders
 - Download and install necessary packages if needed...
 - Override your settings and files with this rice's.
-- Install and apply my XeroNord Grub theme.
+- Install and apply my New Grub theme.
 - Reboot system to get everything loaded... 
 
 # F.A.Q
