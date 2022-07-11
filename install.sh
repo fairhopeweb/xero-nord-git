@@ -29,7 +29,7 @@ echo "Applying new Rice, hold on..."
 echo "#################################"
 cp -Rf Configs/Home/. ~
 sudo cp -Rf Configs/System/. /
-sed -i "s/{.*}/{C4}/g" ~/XeroAscii
+sed -i "s/{.*}/{C1}/g" ~/XeroAscii
 sudo sed -i "s/Current=.*/Current=Nordic/" /etc/sddm.conf.d/kde_settings.conf
 sudo sed -i "s/CursorTheme=.*/CursorTheme=Nordzy-cursors/" /etc/sddm.conf.d/kde_settings.conf
 sleep 2
