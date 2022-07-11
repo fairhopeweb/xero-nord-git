@@ -42,6 +42,3 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 sleep 2
 echo "Reboot system To activate new rice."
 echo "###################################"
-
-
-
