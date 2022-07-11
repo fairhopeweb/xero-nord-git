@@ -130,7 +130,7 @@ ToolBoxButtonY=32
 sortMode=-1
 
 [Containments][20][Wallpaper][org.kde.image][General]
-Image=/usr/share/wallpapers/NordWall1.png
+Image=/usr/share/wallpapers/NordWall1.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][21]
@@ -152,7 +152,7 @@ DialogWidth=800
 PreloadWeight=42
 
 [Containments][21][Wallpaper][org.kde.image][General]
-Image=/usr/share/wallpapers/NordWall1.png
+Image=/usr/share/wallpapers/NordWall1.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][22]
@@ -174,7 +174,7 @@ DialogWidth=800
 PreloadWeight=42
 
 [Containments][21][Wallpaper][org.kde.image][General]
-Image=/usr/share/wallpapers/NordWall1.png
+Image=/usr/share/wallpapers/NordWall1.jpg
 SlidePaths=/usr/share/wallpapers
 
 [Containments][81]
