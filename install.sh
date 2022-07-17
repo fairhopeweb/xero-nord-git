@@ -6,7 +6,7 @@ echo "##########################################"
 sleep 5
 echo "Creating Backups of ~/.config folder"
 echo "#####################################"
-cp -Rf ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
+cp -r ~/.config ~/.config-backup-$(date +%Y.%m.%d-%H.%M.%S)
 sleep 2
 echo "Removing old Latte-Dock & Lightly"
 echo "#################################"
