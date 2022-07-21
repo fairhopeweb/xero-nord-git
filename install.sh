@@ -33,6 +33,10 @@ sed -i "s/{.*}/{C1}/g" ~/XeroAscii
 sudo sed -i "s/Current=.*/Current=Nordic/" /etc/sddm.conf.d/kde_settings.conf
 sudo sed -i "s/CursorTheme=.*/CursorTheme=Nordzy-cursors/" /etc/sddm.conf.d/kde_settings.conf
 sleep 2
+echo "Applying Flatpak Theme Fix..."
+echo "#################################"
+cp -r /usr/share/themes/Nordic-darker ~/.themes/
+sleep 2
 echo "Applying Grub Theme...."
 echo "#################################"
 chmod +x XeroNord.sh
